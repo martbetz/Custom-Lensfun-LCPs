@@ -6,7 +6,7 @@
 
 I've also found that some of the existing LCPs aren't quite to my liking — the Fuji XC 35mm F2 LCP, for example, just doesn't look quite right to me. 
 
-### Why Not Submit These LCPs Directly to Lensfun? ###
+### Why Not Submit Them Directly to Lensfun? ###
 
 Due to the way I use Lensfun, many of my custom LCPs either contain geometric distortion data only or the remaining data has been copied from existing LCPs (I tend to lean on the built-in tools of [Raw Therapee](https://github.com/Beep6581/RawTherapee) to correct for other abberations). Submitting incomplete LCPs would be both very lazy and extremely sloppy.
 
