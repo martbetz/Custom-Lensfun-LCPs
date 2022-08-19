@@ -4,7 +4,7 @@
 
 [Lensfun](https://github.com/lensfun/lensfun) is a fantastic project, but I have quite a few lenses in my collection that aren't yet included in its ever-growing database. 
 
-I've also found that some of the existing LCPs aren't quite to my liking — the Fuji XC 35mm F2 LCP, for example, just doesn't look right to me. 
+I've also found that some of the existing LCPs aren't quite to my liking — the _Fuji XC 35mm F2_ LCP, for example, just doesn't look right to me. 
 
 ### Why not submit them directly to Lensfun? ###
 
