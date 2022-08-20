@@ -1,6 +1,6 @@
 # Custom Lensfun LCPs #
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r3FstrYvvno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/r3FstrYvvno
 
 ### Why create custom LCPs? ###
 
