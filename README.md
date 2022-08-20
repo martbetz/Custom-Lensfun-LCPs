@@ -12,7 +12,7 @@ Due to the way I use Lensfun, many of my custom LCPs either contain geometric di
 
 Furthermore, it's never been my intention to submit replacements for any existing LCPs — 'beauty is in the eye of the beholder,' and suggesting that my LCPs are in some way 'better' would be very naive and extremely rude! — and while it's often nice to have a choice, submitting them as alternatives would only lead to confusion.
 
-### So what are the results like? ###
+### What are the results like? ###
 
 A [test run of my custom Fuji XC 35mm F2 LCP](https://youtu.be/r3FstrYvvno) can be viewed on Youtube; I think it looks very nice indeed, but why not judge for yourself? 😍
 
