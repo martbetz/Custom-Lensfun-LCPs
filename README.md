@@ -16,7 +16,7 @@ Furthermore, it's never been my intention to submit replacements for any existin
 
 A [test run of my custom Fuji XC 35mm F2 LCP](https://youtu.be/r3FstrYvvno) can be viewed on Youtube; I think it looks very nice indeed, but why not judge for yourself? 😍
 
-### Great! So where are they? ###
+### Great! But where are they? ###
 
 I'll be uploading them very soon. Watch this space!
 
