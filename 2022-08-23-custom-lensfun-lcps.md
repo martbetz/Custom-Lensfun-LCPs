@@ -23,7 +23,7 @@ More importantly, it's never been my intention to submit replacements for any ex
 
 A [test run of my custom Fujinon XC 35mm F2 LCP](https://youtu.be/r3FstrYvvno) can be viewed on Youtube; I think it looks very nice indeed, but why not judge for yourself? 😍
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r3FstrYvvno?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Great! But where are they? ###
 
