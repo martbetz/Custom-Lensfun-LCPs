@@ -5,7 +5,7 @@ All lenses — _even the really expensive ones_ — have their flaws. [Lensfun](
 
 ### Why create custom LCPs? ###
 
-Lensfun is a fantastic project, but a lot of lenses from my collection aren't included in the database (at least, not at the time of writing).
+Lensfun is a fantastic project, but a lot of my lenses aren't included in the database (at least, not at the time of writing).
 
 Also, some of the existing LCPs aren't quite to my liking — for example, the [Fujinon XC 35mm F2](https://fujifilm-x.com/global/products/lenses/xc35mmf2/) LCP just doesn't look right to me. 😞
 
