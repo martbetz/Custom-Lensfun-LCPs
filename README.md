@@ -1,9 +1,5 @@
----
-title: Custom Lensfun LCPs
-layout: post
-categories: photography computing
-tags: lensfun
----
+
+# Custom Lensfun LCPs #
 
 All lenses — _even the really expensive ones_ — have their flaws; [Lensfun](https://github.com/lensfun/lensfun) is a fantastic project that helps compensate for these flaws using a generous and ever-growing collection of publically-contributed LCPs (lens-correction profiles).
 
@@ -23,9 +19,8 @@ More importantly, it's never been my intention to replace existing LCPs — 'bea
 
 A [test run of my custom Fujinon XC 35mm F2 LCP](https://youtu.be/r3FstrYvvno) can be viewed on Youtube — I think it looks very nice indeed, but why not judge for yourself? 😍
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/r3FstrYvvno"></iframe>
-</div>
+
+
 
 (Please try to ignore the fact that I don't have any subscribers. 😆)
 
