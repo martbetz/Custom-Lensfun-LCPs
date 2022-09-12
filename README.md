@@ -1,9 +1,6 @@
----
-title: Custom Lensfun LCPs
-layout: post
-categories: photography computing
-tags: lensfun lenses
----
+
+
+### What are Lensfun LCPs? ###
 
 All lenses — _even the really expensive ones_ — have their flaws; Lensfun helps compensate for these flaws using a generous and ever-growing collection of project-approved LCPs (lens-correction profiles).
 
