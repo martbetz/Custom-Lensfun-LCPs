@@ -24,7 +24,7 @@ A [test run of my custom Fujinon XC 35mm F2 LCP](https://youtu.be/r3FstrYvvno) c
 
 ### Great! But where are they? ###
 
-I'll be uploading them to the [GitHub repo](https://github.com/martbetz/Custom-Lensfun-LCPs) very soon — watch this space!
+I'm slowly but suely adding them to the [GitHub repo](https://github.com/martbetz/Custom-Lensfun-LCPs) — feel free to check them out!
 
 ---
 
