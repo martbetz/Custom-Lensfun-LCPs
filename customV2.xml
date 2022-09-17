@@ -1,0 +1,29 @@
+<lensdatabase version="2">
+    
+    <lens>
+        <maker>Fujifilm</maker>
+        <model>XC35mmF2 (bezy's version)</model>
+        <model lang="en">XC 35mm f/2 WR</model>
+        <mount>Fujifilm X</mount>
+        <cropfactor>1.528</cropfactor>
+        <calibration>
+            <!-- Taken with Fujifilm X-T10 -->
+            <distortion model="ptlens" focal="35" a="-0.00278" b="-0.01884" c="0.00990"/>
+            <!-- Taken with Fujifilm X-E2 -->
+            <tca model="poly3" focal="35" vr="1.0000774" vb="0.9999724"/>
+        </calibration>
+    </lens>
+    
+    <lens>
+        <maker>Promura</maker>
+        <model>Auto-Promura 28mm 2.8 C.P. Hi-Lux MC</model>
+        <model lang="en">Auto-Promura 28mm 2.8 C.P. Hi-Lux MC</model>
+        <mount>Fujifilm X</mount>
+        <cropfactor>1.528</cropfactor>
+        <calibration>
+            <!-- Taken with Fujifilm X-T10 -->
+            <distortion model="ptlens" focal="28" a="-0.01992" b="0.06209" c="-0.07307"/>
+        </calibration>
+    </lens>    
+
+</lensdatabase>
