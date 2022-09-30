@@ -18,7 +18,15 @@ More importantly, it's never been my intention to submit _replacement_ LCPs — 
 
 ### What are the results like? ###
 
-A [test run of my custom Fujinon XC 35mm F2 LCP](https://youtu.be/r3FstrYvvno) can be viewed on Youtube — I think it looks very nice indeed, but why not judge for yourself?³ 
+I'm very pleased with them, personally, but why not judge for yourself?
+
+
+
+![LCP Test](https://assets0.ello.co/uploads/asset/attachment/15653744/ello-optimized-1a1cdaab.gif)
+
+I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³
+
+
 
 
 
