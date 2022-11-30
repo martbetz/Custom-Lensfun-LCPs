@@ -14,7 +14,7 @@ While my newer and more popular lenses _are_ included in the database, I've foun
 
 Most of my custom LCPs either contain geometric distortion data only or the remaining data has been copied from existing LCPs (I tend to lean on the built-in tools of [RawTherapee](https://github.com/Beep6581/RawTherapee) and [GIMP](https://github.com/GNOME/gimp) to correct for other abberations). Submitting incomplete LCPs, though acceptable, is somewhat less than ideal.¹
 
-More importantly, it's never been my intention to submit _replacement_ LCPs — 'beauty is in the eye of the beholder,' and suggesting that mine are 'better' in any way would be very naive and extremely rude; and while it's often nice to have a choice, submitting them as _alternatives_ would only lead to confusion.²
+More importantly, it's never been my intention to submit _replacement_ LCPs — 'beauty is in the eye of the beholder,' and suggesting that mine are 'better' in any way would be very naive and extremely rude (and while it's often nice to have a choice, submitting them as _alternatives_ would only lead to confusion).²
 
 ### What are the results like? ###
 
