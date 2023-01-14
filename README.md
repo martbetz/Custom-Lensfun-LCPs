@@ -38,6 +38,6 @@ I'm slowly but suely adding them to the [GitHub repo](https://github.com/martbet
 
 
 
-¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free (just be sure to leave me out of the politics! 😉)
+¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free — just be sure to leave me out of the politics! 😉
 <br>
 ³ Please try to ignore the fact that I don't have any subscribers. 😆
