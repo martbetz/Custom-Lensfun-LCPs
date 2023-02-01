@@ -27,10 +27,6 @@ I'm very pleased with them, personally, but why not judge for yourself?
 
 I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).³ 
 
-### Great! But where are they? ###
-
-I'm slowly but surely uploading them to the GitHub repo; you can check them out there or download them directly from this page.
-
 ---
 
 ¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free — just be sure to leave me out of the politics! 😉
