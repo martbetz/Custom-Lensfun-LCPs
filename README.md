@@ -18,19 +18,19 @@ Furthermore, it's never been my intention to submit _replacement_ LCPs — 'beau
 
 I'm very pleased with them, personally, but why not judge for yourself?
 
-<div align="center">
+<!-- <div align="center">
 <p>
  <img style="padding-top: 15px; padding-bottom: 20px;" src="https://assets0.ello.co/uploads/asset/attachment/15653744/ello-optimized-1a1cdaab.gif" alt="LCP Test">
 </p>
 </div>
 
 
-<s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).</s>³ 
+<s>I've also uploaded a short [LCP test video](https://youtu.be/r3FstrYvvno) to YouTube (I've no idea why, but it's there if you want to see it).</s>³ -->
 
 ---
 
-¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free — just be sure to leave me out of the politics! 😉
+¹ ² Having said this, my custom LCPs are completely free and open-source; if you're a Lensfun maintainer and you'd like to include anything, please feel free — <i>just be sure to leave me out of the politics!</i> 😉
 <br>
 
-³ Please try to ignore the fact that I don't have any subscribers.&nbsp;😆
+<!-- ³ Please try to ignore the fact that I don't have any subscribers.&nbsp;😆 -->
 
